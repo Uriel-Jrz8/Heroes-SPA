@@ -3,8 +3,6 @@ import { Navigate, useLocation } from "react-router-dom";
 import { AuthContext } from "../auth";
 
 
- 
-
 
 export const PrivateRoute = ( {children} ) => {
 
